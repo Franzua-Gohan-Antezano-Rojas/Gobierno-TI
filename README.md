@@ -1,2 +1,2 @@
-#Mayhuasca Mayorca AJ
-Tienda E-Commerce replida del curso
+#Franzua
+Tienda E-Commerce replica del curso
